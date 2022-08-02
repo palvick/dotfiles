@@ -1,3 +1,6 @@
+*.tgz
+*.sql
+
 *.DS_Store
 *.LSOverride
 Thumbs.db
